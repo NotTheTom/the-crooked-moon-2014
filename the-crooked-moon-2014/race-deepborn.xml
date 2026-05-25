@@ -2,8 +2,8 @@
 <elements>
     <info>
         <name>Deepborn</name>
-        <update version="0.0.1">
-            <file name="race-deepborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/race-deepborn.xml" />
+        <update version="0.0.2">
+            <file name="race-deepborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/race-deepborn.xml" />
         </update>
     </info>
     

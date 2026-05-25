@@ -2,8 +2,8 @@
 <elements>
     <info>
         <name>Wicker Weaver</name>
-        <update version="0.0.1">
-            <file name="background-wicker-weaver.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/background-wicker-weaver.xml" />
+        <update version="0.0.2">
+            <file name="background-wicker-weaver.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/background-wicker-weaver.xml" />
         </update>
     </info>
     

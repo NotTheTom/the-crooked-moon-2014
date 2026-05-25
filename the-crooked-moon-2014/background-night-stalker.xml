@@ -2,8 +2,8 @@
 <elements>
     <info>
         <name>Night Stalker</name>
-        <update version="0.0.1">
-            <file name="background-night-stalker.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/background-night-stalker.xml" />
+        <update version="0.0.2">
+            <file name="background-night-stalker.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/background-night-stalker.xml" />
         </update>
     </info>
     

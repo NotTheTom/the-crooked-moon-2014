@@ -2,45 +2,45 @@
 <index>
 	<info>
 		<name>The Crooked Moon 2014</name>
-		<update version="0.0.1">
-			<file name="the-crooked-moon-2014.index" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014.index" />
+		<update version="0.0.2">
+			<file name="the-crooked-moon-2014.index" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014.index" />
 		</update>
 	</info>
 	<files>
-		<file name="background-amnesiac.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/backgrounds-amnesiac.xml" />
-		<file name="background-crimson-aspirant.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/background-crimson-aspirant.xml" />
-		<file name="background-crossroads-gambler.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/background-crossroads-gambler.xml" />
-		<file name="background-cultist.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/background-cultist.xml" />
-		<file name="background-druskenvald-dweller.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/background-druskenvald-dweller.xml" />
-		<file name="background-experiment.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moo2014/background-experiment.xml" />
-		<file name="background-ghostlight-passenger.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/background-ghostlight-passenger.xml" />
-		<file name="background-night-stalker.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/background-night-stalker.xml" />
-		<file name="background-reflected-wanderer.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/background-reflected-wanderer.xml" />
-		<file name="background-rest-warden.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/background-rest-warden.xml" />
-		<file name="background-reveler.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/background-reveler.xml" />
-		<file name="background-scholar-of-the-forbidden.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/background-scholar-of-the-forbiddden.xml" />
-		<file name="background-wicker-weaver.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/background-wicker-weaver.xml" />
+		<file name="background-amnesiac.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/backgrounds-amnesiac.xml" />
+		<file name="background-crimson-aspirant.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/background-crimson-aspirant.xml" />
+		<file name="background-crossroads-gambler.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/background-crossroads-gambler.xml" />
+		<file name="background-cultist.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/background-cultist.xml" />
+		<file name="background-druskenvald-dweller.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/background-druskenvald-dweller.xml" />
+		<file name="background-experiment.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moo2014/background-experiment.xml" />
+		<file name="background-ghostlight-passenger.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/background-ghostlight-passenger.xml" />
+		<file name="background-night-stalker.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/background-night-stalker.xml" />
+		<file name="background-reflected-wanderer.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/background-reflected-wanderer.xml" />
+		<file name="background-rest-warden.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/background-rest-warden.xml" />
+		<file name="background-reveler.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/background-reveler.xml" />
+		<file name="background-scholar-of-the-forbidden.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/background-scholar-of-the-forbiddden.xml" />
+		<file name="background-wicker-weaver.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/background-wicker-weaver.xml" />
 		
-		<file name="dark-bargains.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/dark-bargains.xml" />
+		<file name="dark-bargains.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/dark-bargains.xml" />
 		
-		<file name="feats.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/feats.xml" />
+		<file name="feats.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/feats.xml" />
 		
-		<file name="race-ashborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/race-ashborn.xml" />
-		<file name="race-azureborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/race-azureborn.xml" />
-		<file name="race-bogborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/race-bogborn.xml" />
-		<file name="race-curseborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/race-curseborn.xml" />
-		<file name="race-deepborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/race-deepborn.xml" />
-		<file name="race-gnarlborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/race-gnarlborn.xml" />
-		<file name="race-graveborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/race-graveborn.xml" />
-		<file name="race-harvestborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/race-harvestborn.xml" />
-		<file name="race-plagueborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/race-plagueborn.xml" />
-		<file name="race-relicborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/race-relicborn.xml" />
-		<file name="race-silkborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/race-silkborn.xml" />
-		<file name="race-stoneborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/race-stoneborn.xml" />
-		<file name="race-threadborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/race-threadborn.xml" />
+		<file name="race-ashborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/race-ashborn.xml" />
+		<file name="race-azureborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/race-azureborn.xml" />
+		<file name="race-bogborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/race-bogborn.xml" />
+		<file name="race-curseborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/race-curseborn.xml" />
+		<file name="race-deepborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/race-deepborn.xml" />
+		<file name="race-gnarlborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/race-gnarlborn.xml" />
+		<file name="race-graveborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/race-graveborn.xml" />
+		<file name="race-harvestborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/race-harvestborn.xml" />
+		<file name="race-plagueborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/race-plagueborn.xml" />
+		<file name="race-relicborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/race-relicborn.xml" />
+		<file name="race-silkborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/race-silkborn.xml" />
+		<file name="race-stoneborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/race-stoneborn.xml" />
+		<file name="race-threadborn.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/race-threadborn.xml" />
 
-		<file name="spells.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/spells.xml" />
+		<file name="spells.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/spells.xml" />
 		
-		<file name="source.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon/main/the-crooked-moon-2014/source.xml" />
+		<file name="source.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/source.xml" />
 	</files>
 </index>

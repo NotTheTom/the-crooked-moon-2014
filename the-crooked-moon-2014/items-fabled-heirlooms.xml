@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <info>
+        <name>Fabled Heirlooms</name>
+        <update version="0.0.2">
+            <file name="items-fabled-heirlooms.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/items-fabled-heirlooms.xml" />
+        </update>
+    </info>
+    
+    <element name="Axe of the Galloping Headsman (1st-6th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_AXE_OF_THE_GALLOPING_HEADSMAN_RARE">
+        <description>
+            <p>This axe has a wickedly curved head, honed to a razor’s edge and limned with dark fire. Its handle is wrapped in cracked leather, and the entirety is etched with malevolent runes.</p>
+            <p class="indent">You gain a bonus to attack rolls and damage rolls made with this magic weapon determined by the axe’s rarity. You can also use the following properties.</p>
+            <p class="indent"><b><i>Fiery Smite.</i></b> This axe deals an extra 1d6 fire damage on a hit. If the target is a creature that damaged you since the end of your last turn, the extra damage becomes 1d10.</p>
+        </description>
+        <setters>
+            <set name="category">Magic Weapons</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="4">4 lb.</set>
+            <set name="type" addition="battleaxe">Weapon</set>
+            <set name="rarity">Rare</set>
+            <set name="enhancement">1</set>
+            <set name="weapon">Battleaxe</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Axe of the Galloping Headsman</set>
+        </setters>
+    </element>
+    <element name="Axe of the Galloping Headsman (7th-12th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_AXE_OF_THE_GALLOPING_HEADSMAN_VERY_RARE">
+        <description>
+            <p>This axe has a wickedly curved head, honed to a razor’s edge and limned with dark fire. Its handle is wrapped in cracked leather, and the entirety is etched with malevolent runes.</p>
+            <p class="indent">You gain a bonus to attack rolls and damage rolls made with this magic weapon determined by the axe’s rarity. You can also use the following properties.</p>
+            <p class="indent"><b><i>Fiery Smite.</i></b> This axe deals an extra 1d6 fire damage on a hit. If the target is a creature that damaged you since the end of your last turn, the extra damage becomes 1d10.</p>
+            <p class="indent"><b><i>Mark of Guilt.</i></b> When you hit a creature with the axe, you can mark it for punishment (no action required). You know the direction and distance to the creature. If it leaves this plane of existence, you know the destination plane and the mark ends. The mark otherwise ends when this property is used again, or when the target dies.</p>
+            <p class="indent"><b><i>Sense Guilt.</i></b> You can take a bonus action to hold the blade of the axe to a creature’s neck (if it has one), and it must succeed on a Charisma saving throw (DC = 16 + the axe’s bonus) or you learn something the creature feels guilty about. Once this property is used, the target is immune to it for 24 hours.</p>
+        </description>
+        <setters>
+            <set name="category">Magic Weapons</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="4">4 lb.</set>
+            <set name="type" addition="battleaxe">Weapon</set>
+            <set name="rarity">Very Rare</set>
+            <set name="enhancement">2</set>
+            <set name="weapon">Battleaxe</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Axe of the Galloping Headsman</set>
+        </setters>
+    </element>
+    <element name="Axe of the Galloping Headsman (13th Level+)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_AXE_OF_THE_GALLOPING_HEADSMAN_LEGENDARY">
+        <description>
+            <p>This axe has a wickedly curved head, honed to a razor’s edge and limned with dark fire. Its handle is wrapped in cracked leather, and the entirety is etched with malevolent runes.</p>
+            <p class="indent">You gain a bonus to attack rolls and damage rolls made with this magic weapon determined by the axe’s rarity. You can also use the following properties.</p>
+            <p class="indent"><b><i>Fiery Smite.</i></b> This axe deals an extra 1d6 fire damage on a hit. If the target is a creature that damaged you since the end of your last turn, the extra damage becomes 1d10.</p>
+            <p class="indent"><b><i>Mark of Guilt.</i></b> When you hit a creature with the axe, you can mark it for punishment (no action required). You know the direction and distance to the creature. If it leaves this plane of existence, you know the destination plane and the mark ends. The mark otherwise ends when this property is used again, or when the target dies.</p>
+            <p class="indent"><b><i>Sense Guilt.</i></b> You can take a bonus action to hold the blade of the axe to a creature’s neck (if it has one), and it must succeed on a Charisma saving throw (DC = 16 + the axe’s bonus) or you learn something the creature feels guilty about. Once this property is used, the target is immune to it for 24 hours.</p>
+            <p class="indent"><b><i>Dark Binding.</i></b> Once during your turn when you hit a creature with the axe, you can immediately take a bonus action to force the target to succeed on a DC 19 Strength saving throw or be paralyzed and prone until the start of your next turn. If its body shape allows it, the target kneels and presents its neck.</p>
+            <p class="indent"><b><i>Executioner's Blade.</i></b> When you attack a prone creature using the axe, you score a critical hit on a roll of 19 or 20 on the d20. On a critical hit, the axe deals an extra 3d6 fire damage, and if the creature is left with 20 or fewer hit points after taking this damage, it must succeed on a DC 10 Constitution saving throw or die.</p>
+        </description>
+        <setters>
+            <set name="category">Magic Weapons</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="4">4 lb.</set>
+            <set name="type" addition="battleaxe">Weapon</set>
+            <set name="rarity">Legendary</set>
+            <set name="enhancement">3</set>
+            <set name="weapon">Battleaxe</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Axe of the Galloping Headsman</set>
+        </setters>
+    </element>
+    
+    <element name="Banjo of Ol' Jericho Sticks (1st-6th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_BANJO_OF_OL_JERICHO_STICKS_RARE">
+        <description>
+            <p>An old, weathered banjo inscribed with runes, this instrument once belonged to Ol’ Jericho Sticks, a scarecrow bard created by a hag coven.</p>
+            <p class="indent">While holding the banjo, you can use it as a spellcasting focus for your spells; you gain a bonus determined by its rarity to spell attack rolls, your spell save DC, and Charisma (Performance) checks; and you can use the following properties.</p>
+            <p class="indent"><b><i>Fiendish Lure.</i></b> As an action, choose one Fiend or Humanoid that you can see within 60 feet. The target must succeed on a Wisdom saving throw (DC = 16 + the banjo’s bonus) or be charmed (ignoring a demon’s immunity) for 1 minute.</p>
+            <p class="indent">The charmed condition ends if you or your allies deal damage to the target or force it to make a saving throw. Once a creature is charmed in this way, this property can’t be used again until the next dusk.</p>
+            <p class="indent"><b><i>Scarecrow's Dance.</i></b> You can take a bonus action to strum the banjo and dance wildly to take the Disengage action. The music is audible within 120 feet.</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="2">2 lb.</set>
+            <set name="type">Wondrous Item</set>
+            <set name="rarity">Rare</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Banjo of Ol' Jericho Sticks</set>
+        </setters>
+        <rules>
+            <stat name="spellcasting:attack" value="1" />
+            <stat name="spellcasting:dc" value="1" />
+            <stat name="performance:misc" value="1" />
+        </rules>
+    </element>
+    <element name="Banjo of Ol' Jericho Sticks (7th-12th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_BANJO_OF_OL_JERICHO_STICKS_VERY_RARE">
+        <description>
+            <p>An old, weathered banjo inscribed with runes, this instrument once belonged to Ol’ Jericho Sticks, a scarecrow bard created by a hag coven.</p>
+            <p class="indent">While holding the banjo, you can use it as a spellcasting focus for your spells; you gain a bonus determined by its rarity to spell attack rolls, your spell save DC, and Charisma (Performance) checks; and you can use the following properties.</p>
+            <p class="indent"><b><i>Fiendish Lure.</i></b> As an action, choose one Fiend or Humanoid that you can see within 60 feet. The target must succeed on a Wisdom saving throw (DC = 16 + the banjo’s bonus) or be charmed (ignoring a demon’s immunity) for 1 minute.</p>
+            <p class="indent">The charmed condition ends if you or your allies deal damage to the target or force it to make a saving throw. Once a creature is charmed in this way, this property can’t be used again until the next dusk.</p>
+            <p class="indent"><b><i>Scarecrow's Dance.</i></b> You can take a bonus action to strum the banjo and dance wildly to take the Disengage action. The music is audible within 120 feet.</p>
+            <p class="indent"><b><i>Join in the Dance.</i></b> When you use Scarecrow’s Dance, one creature of your choice that you can see within 15 feet of you can use its reaction to move up to half its speed without provoking opportunity attacks.</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="2">2 lb.</set>
+            <set name="type">Wondrous Item</set>
+            <set name="rarity">Very Rare</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Banjo of Ol' Jericho Sticks</set>
+        </setters>
+        <rules>
+            <stat name="spellcasting:attack" value="2" />
+            <stat name="spellcasting:dc" value="2" />
+            <stat name="performance:misc" value="2" />
+        </rules>
+    </element>
+    <element name="Banjo of Ol' Jericho Sticks (13th Level+)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_BANJO_OF_OL_JERICHO_STICKS_LEGENDARY">
+        <description>
+            <p>An old, weathered banjo inscribed with runes, this instrument once belonged to Ol’ Jericho Sticks, a scarecrow bard created by a hag coven.</p>
+            <p class="indent">While holding the banjo, you can use it as a spellcasting focus for your spells; you gain a bonus determined by its rarity to spell attack rolls, your spell save DC, and Charisma (Performance) checks; and you can use the following properties.</p>
+            <p class="indent"><b><i>Fiendish Lure.</i></b> As an action, choose one Fiend or Humanoid that you can see within 60 feet. The target must succeed on a Wisdom saving throw (DC = 16 + the banjo’s bonus) or be charmed (ignoring a demon’s immunity) for 1 minute.</p>
+            <p class="indent">The charmed condition ends if you or your allies deal damage to the target or force it to make a saving throw. Once a creature is charmed in this way, this property can’t be used again until the next dusk.</p>
+            <p class="indent"><b><i>Scarecrow's Dance.</i></b> You can take a bonus action to strum the banjo and dance wildly to take the Disengage action. The music is audible within 120 feet.</p>
+            <p class="indent"><b><i>Join in the Dance.</i></b> When you use Scarecrow’s Dance, one creature of your choice that you can see within 15 feet of you can use its reaction to move up to half its speed without provoking opportunity attacks.</p>
+            <p class="indent"><b><i>Birdcage.</i></b> As an action, you can force a creature charmed by you to make a DC 19 Charisma saving throw. On a failure, the creature disappears, drawn into the banjo. The banjo can contain one creature at a time in this way for up to 24 hours. On a success, the charmed condition ends on the creature.</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="2">2 lb.</set>
+            <set name="type">Wondrous Item</set>
+            <set name="rarity">Legendary</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Banjo of Ol' Jericho Sticks</set>
+        </setters>
+        <rules>
+            <stat name="spellcasting:attack" value="3" />
+            <stat name="spellcasting:dc" value="3" />
+            <stat name="performance:misc" value="3" />
+        </rules>
+    </element>
+
+    <element name="Bell of the Dusk Mother (1st-6th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_BELL_OF_THE_DUSK_MOTHER_RARE">
+        <description>
+            <p>This heavy iron handbell is elaborately decorated with filigree. Its handle is a large ring, and its clapper hangs from a chain within. Its only sound is ever-mournful tolling.</p>
+            <p class="indent">While holding the bell, you can use it as a spellcasting focus for your spells, you gain a bonus to spell attack rolls and your spell save DC determined by its rarity, and you can use the following properties.</p>
+            <p class="indent"><b><i>Dolorous Tolling.</i></b> As an action, you can ring the bell, producing an ominous tolling. Creatures of your choice within 30 feet of you must make a Wisdom saving throw (DC = 16 + the bell’s bonus). On a failed save, a target takes 3d10 psychic damage, and for 1 minute, when it makes an attack roll or saving throw, it must subtract 1d4 from the total. Once this property is used, it can’t be used again until the next dusk.</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="2">2 lb.</set>
+            <set name="type">Wondrous Item</set>
+            <set name="rarity">Rare</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Bell of the Dusk Mother</set>
+        </setters>
+        <rules>
+            <stat name="spellcasting:attack" value="1" />
+            <stat name="spellcasting:dc" value="1" />
+        </rules>
+    </element>
+    <element name="Bell of the Dusk Mother (7th-12th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_BELL_OF_THE_DUSK_MOTHER_VERY_RARE">
+        <description>
+            <p>This heavy iron handbell is elaborately decorated with filigree. Its handle is a large ring, and its clapper hangs from a chain within. Its only sound is ever-mournful tolling.</p>
+            <p class="indent">While holding the bell, you can use it as a spellcasting focus for your spells, you gain a bonus to spell attack rolls and your spell save DC determined by its rarity, and you can use the following properties.</p>
+            <p class="indent"><b><i>Dolorous Tolling.</i></b> As an action, you can ring the bell, producing an ominous tolling. Creatures of your choice within 30 feet of you must make a Wisdom saving throw (DC = 16 + the bell’s bonus). On a failed save, a target takes 3d10 psychic damage, and for 1 minute, when it makes an attack roll or saving throw, it must subtract 1d4 from the total. Once this property is used, it can’t be used again until the next dusk.</p>
+            <p class="indent"><b><i>Call of the Bell.</i></b> You can take a bonus action to create a doll (use the Animated Armor stat block) from a 5-foot cube of wood, clay, or stone within 10 feet. The doll obeys your commands and acts immediately after your turn on your initiative. It reverts to the materials used to create it after 10 minutes or when it dies. Once this property is used, it can’t be used again until the next dusk.</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="2">2 lb.</set>
+            <set name="type">Wondrous Item</set>
+            <set name="rarity">Very Rare</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Bell of the Dusk Mother</set>
+        </setters>
+        <rules>
+            <stat name="spellcasting:attack" value="2" />
+            <stat name="spellcasting:dc" value="2" />
+        </rules>
+    </element>
+    <element name="Bell of the Dusk Mother (13th Level+)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_BELL_OF_THE_DUSK_MOTHER_LEGENDARY">
+        <description>
+            <p>This heavy iron handbell is elaborately decorated with filigree. Its handle is a large ring, and its clapper hangs from a chain within. Its only sound is ever-mournful tolling.</p>
+            <p class="indent">While holding the bell, you can use it as a spellcasting focus for your spells, you gain a bonus to spell attack rolls and your spell save DC determined by its rarity, and you can use the following properties.</p>
+            <p class="indent"><b><i>Dolorous Tolling.</i></b> As an action, you can ring the bell, producing an ominous tolling. Creatures of your choice within 30 feet of you must make a Wisdom saving throw (DC = 16 + the bell’s bonus). On a failed save, a target takes 3d10 psychic damage, and for 1 minute, when it makes an attack roll or saving throw, it must subtract 1d4 from the total. Once this property is used, it can’t be used again until the next dusk.</p>
+            <p class="indent"><b><i>Call of the Bell.</i></b> You can take a bonus action to create a doll (use the Animated Armor stat block) from a 5-foot cube of wood, clay, or stone within 10 feet. The doll obeys your commands and acts immediately after your turn on your initiative. It reverts to the materials used to create it after 10 minutes or when it dies. Once this property is used, it can’t be used again until the next dusk.</p>
+            <p class="indent"><b><i>Death Knell.</i></b> As an action, you can ring the bell, creating a loud clang. Each creature within 30 feet of you that has half its hit points or fewer must make a DC 19 Constitution saving throw, taking 5d10 necrotic damage on a failed save or half as much damage on a successful one. A creature that fails the save by 5 or more drops to 0 hit points. Once this property is used, it can’t be used again until the next dusk.</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="2">2 lb.</set>
+            <set name="type">Wondrous Item</set>
+            <set name="rarity">Legendary</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Bell of the Dusk Mother</set>
+        </setters>
+        <rules>
+            <stat name="spellcasting:attack" value="3" />
+            <stat name="spellcasting:dc" value="3" />
+        </rules>
+    </element>
+
+    <element name="Blunderbuss of the Grinning Sinner (1st-6th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_BLUNDERBUSS_OF_THE_GRINNING_SINNER_RARE">
+        <description>
+            <p>This dark, ornate blunderbuss has a brass barrel and a wooden handle etched with arcane symbols. It was the Grinning Sinner’s weapon of choice, who imbued it with the power to shoot jinxes and hexes.</p>
+            <p class="indent">The blunderbuss functions as a musket: a martial ranged weapon with a normal range of 40 feet and a long range of 120 feet, and it has the ammunition (bullet) and two-handed properties. It can make its own ammunition that deals necrotic damage on a hit. You gain a bonus to attack rolls and damage rolls made with it determined by the its rarity. While holding the blunderbuss, you can use it as a spellcasting focus for your spells, and you can use the following properties.</p>
+            <p class="indent"><b><i>Jinxshot.</i></b> This axe deals an extra 1d6 fire damage on a hit. If the target is a creature that damaged you since the end of your last turn, the extra damage becomes 1d10.</p>
+        </description>
+        <setters>
+            <set name="category">Magic Weapons</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="4">4 lb.</set>
+            <set name="type" addition="musket">Weapon</set>
+            <set name="rarity">Rare</set>
+            <set name="enhancement">1</set>
+            <set name="weapon">Musket</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Blunderbuss of the Grinning Sinner</set>
+        </setters>
+    </element>
+    <element name="Blunderbuss of the Grinning Sinner (7th-12th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_BLUNDERBUSS_OF_THE_GRINNING_SINNER_VERY_RARE">
+        <description>
+            <p>This dark, ornate blunderbuss has a brass barrel and a wooden handle etched with arcane symbols. It was the Grinning Sinner’s weapon of choice, who imbued it with the power to shoot jinxes and hexes.</p>
+            <p class="indent">The blunderbuss functions as a musket: a martial ranged weapon with a normal range of 40 feet and a long range of 120 feet, and it has the ammunition (bullet) and two-handed properties. It can make its own ammunition that deals necrotic damage on a hit. You gain a bonus to attack rolls and damage rolls made with it determined by the its rarity. While holding the blunderbuss, you can use it as a spellcasting focus for your spells, and you can use the following properties.</p>
+            <p class="indent"><b><i>Jinxshot.</i></b> This axe deals an extra 1d6 fire damage on a hit. If the target is a creature that damaged you since the end of your last turn, the extra damage becomes 1d10.</p>
+            <p class="indent"><b><i>Sinner's Jinx.</i></b> Once during your turn when you damage a creature with the blunderbuss, the target must succeed on a Charisma saving throw (DC = 16 + the blunderbuss’s bonus) or be cursed for 1 minute. When it makes an ability check, attack roll, or saving throw while cursed, it subtracts 1d4 from the total. The curse ends if this property is used on another creature.</p>
+        </description>
+        <setters>
+            <set name="category">Magic Weapons</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="4">4 lb.</set>
+            <set name="type" addition="musket">Weapon</set>
+            <set name="rarity">Very Rare</set>
+            <set name="enhancement">2</set>
+            <set name="weapon">Musket</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Blunderbuss of the Grinning Sinner</set>
+        </setters>
+    </element>
+    <element name="Blunderbuss of the Grinning Sinner (13th Level+)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_BLUNDERBUSS_OF_THE_GRINNING_SINNER_LEGENDARY">
+        <description>
+            <p>This dark, ornate blunderbuss has a brass barrel and a wooden handle etched with arcane symbols. It was the Grinning Sinner’s weapon of choice, who imbued it with the power to shoot jinxes and hexes.</p>
+            <p class="indent">The blunderbuss functions as a musket: a martial ranged weapon with a normal range of 40 feet and a long range of 120 feet, and it has the ammunition (bullet) and two-handed properties. It can make its own ammunition that deals necrotic damage on a hit. You gain a bonus to attack rolls and damage rolls made with it determined by the its rarity. While holding the blunderbuss, you can use it as a spellcasting focus for your spells, and you can use the following properties.</p>
+            <p class="indent"><b><i>Jinxshot.</i></b> This axe deals an extra 1d6 fire damage on a hit. If the target is a creature that damaged you since the end of your last turn, the extra damage becomes 1d10.</p>
+            <p class="indent"><b><i>Sinner's Jinx.</i></b> Once during your turn when you damage a creature with the blunderbuss, the target must succeed on a Charisma saving throw (DC = 16 + the blunderbuss’s bonus) or be cursed for 1 minute. When it makes an ability check, attack roll, or saving throw while cursed, it subtracts 1d4 from the total. The curse ends if this property is used on another creature.</p>
+            <p class="indent"><b><i>Luck Taker.</i></b> When a creature you can see within 60 feet of you that is cursed by this weapon makes an ability check, attack roll, or saving throw and rolls a 19 or 20 on the d20, you can use your reaction to mimic their luck. The next time you roll a d20 within 1 minute, change the number you roll to the triggering number.</p>
+        </description>
+        <setters>
+            <set name="category">Magic Weapons</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="4">4 lb.</set>
+            <set name="type" addition="musket">Weapon</set>
+            <set name="rarity">Legendary</set>
+            <set name="enhancement">3</set>
+            <set name="weapon">Musket</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Blunderbuss of the Grinning Sinner</set>
+        </setters>
+    </element>
+
+    <element name="Cane of Philiip Druskenvald (1st-6th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_CANE_OF_PHILLIP_DRUSKENVALD_RARE">
+        <description>
+            <p>This ornate cane is made from polished black wood and is topped with a silver goat-skull ornament. Even a glance at it sparks greed and envy in all but the truly humble.</p>
+            <p class="indent">While holding the cane, you can use it as a spellcasting focus for your spells, you gain a bonus to spell attack rolls and your spell save DC determined by the cane’s rarity, and you can use the following properties.</p>
+            <p class="indent"><b><i>Eldritch Glutton.</i></b> When you succeed on a saving throw against a spell that targets only you, you can use your reaction to consume the spell and store its energy in the cane. The spell has no effect on you. You can take an action to absorb the stored energy to either regain an expended spell slot that is at least one level lower than the triggering spell or gain temporary hit points equal to three times the spell’s level. If you absorb a new spell while the cane holds spell energy, the previous energy is lost. Once the cane absorbs a spell, this property can’t be used again until the next dusk.</p>
+        </description>
+        <setters>
+            <set name="category">Rods</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="1">1 lb.</set>
+            <set name="type">Rod</set>
+            <set name="rarity">Rare</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Cane of Philiip Druskenvald</set>
+        </setters>
+        <rules>
+            <stat name="spellcasting:attack" value="1" />
+            <stat name="spellcasting:dc" value="1" />
+        </rules>
+    </element>
+    <element name="Cane of Philiip Druskenvald (7th-12th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_CANE_OF_PHILLIP_DRUSKENVALD_VERY_RARE">
+        <description>
+            <p>This ornate cane is made from polished black wood and is topped with a silver goat-skull ornament. Even a glance at it sparks greed and envy in all but the truly humble.</p>
+            <p class="indent">While holding the cane, you can use it as a spellcasting focus for your spells, you gain a bonus to spell attack rolls and your spell save DC determined by the cane’s rarity, and you can use the following properties.</p>
+            <p class="indent"><b><i>Eldritch Glutton.</i></b> When you succeed on a saving throw against a spell that targets only you, you can use your reaction to consume the spell and store its energy in the cane. The spell has no effect on you. You can take an action to absorb the stored energy to either regain an expended spell slot that is at least one level lower than the triggering spell or gain temporary hit points equal to three times the spell’s level. If you absorb a new spell while the cane holds spell energy, the previous energy is lost. Once the cane absorbs a spell, this property can’t be used again until the next dusk.</p>
+            <p class="indent"><b><i>Allure of Sin.</i></b> You can cast <i>Dominate Person</i> (save DC = 16 + the cane’s bonus) from the cane. Once a creature is charmed by the spell, this property can’t be used again until the next dusk.</p>
+        </description>
+        <setters>
+            <set name="category">Rods</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="1">1 lb.</set>
+            <set name="type">Rod</set>
+            <set name="rarity">Very Rare</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Cane of Philiip Druskenvald</set>
+        </setters>
+        <rules>
+            <stat name="spellcasting:attack" value="2" />
+            <stat name="spellcasting:dc" value="2" />
+        </rules>
+    </element>
+    <element name="Cane of Philiip Druskenvald (13th Level+)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_CANE_OF_PHILLIP_DRUSKENVALD_LEGENDARY">
+        <description>
+            <p>This ornate cane is made from polished black wood and is topped with a silver goat-skull ornament. Even a glance at it sparks greed and envy in all but the truly humble.</p>
+            <p class="indent">While holding the cane, you can use it as a spellcasting focus for your spells, you gain a bonus to spell attack rolls and your spell save DC determined by the cane’s rarity, and you can use the following properties.</p>
+            <p class="indent"><b><i>Eldritch Glutton.</i></b> When you succeed on a saving throw against a spell that targets only you, you can use your reaction to consume the spell and store its energy in the cane. The spell has no effect on you. You can take an action to absorb the stored energy to either regain an expended spell slot that is at least one level lower than the triggering spell or gain temporary hit points equal to three times the spell’s level. If you absorb a new spell while the cane holds spell energy, the previous energy is lost. Once the cane absorbs a spell, this property can’t be used again until the next dusk.</p>
+            <p class="indent"><b><i>Allure of Sin.</i></b> You can cast <i>Dominate Person</i> (save DC = 16 + the cane’s bonus) from the cane. Once a creature is charmed by the spell, this property can’t be used again until the next dusk.</p>
+            <p class="indent"><b><i>Sin-Binder's Call.</i></b> As an action, you can summon three Hell Hounds, one Incubus, or one Succubus. They appear in unoccupied spaces you can see within 30 feet of you, obey your commands, and take their turns immediately after yours on your initiative count. After 10 minutes, they no longer obey you, but if you treated them well, they are indifferent or friendly toward you. Once this property is used, it can’t be used again until the next dusk.</p>
+        </description>
+        <setters>
+            <set name="category">Rods</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="1">1 lb.</set>
+            <set name="type">Rod</set>
+            <set name="rarity">Legendary</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Cane of Philiip Druskenvald</set>
+        </setters>
+        <rules>
+            <stat name="spellcasting:attack" value="3" />
+            <stat name="spellcasting:dc" value="3" />
+        </rules>
+    </element>
+
+    <element name="Cauldron of the Vermintoll Coven (1st-6th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_CAULDRON_OF_THE_VERMINTOLL_COVEN_RARE">
+        <description>
+            <p>The tarnished cauldron bubbles with a strange, dark liquid. Even in transport, the liquid stays within the rune-emblazoned rim of the cauldron.</p>
+            <p class="indent">While you hold the cauldron, you can use it as a spellcasting focus for your spells, you gain a bonus determined by the cauldron’s rarity to all saving throws, and you can use the following properties.</p>
+            <p class="indent"><b><i>Size Change.</i></b> You can perform a 1-minute ritual to change the cauldron’s size from Tiny to Medium, or from Medium to Tiny. It weighs 1 lb. when Tiny and 80 lb. when Medium. As a Medium object, its feet can move. It has a speed of 20 feet and moves when you command it during your turn (no action required).</p>
+            <p class="indent"><b><i>Cookpot.</i></b> As part of a short or long rest, you can use the Medium cauldron to prepare food for up to ten creatures. At the end of the rest, each creature that eats gains 2d6 temporary hit points.</p>
+            <p class="indent"><b><i>Vermincall.</i></b> As an action, you can spill liquid from the cauldron to cast <i>Conjure Animals</i> with it. The conjured spirits take the form of grotesque insects or rats. Once this property is used, it can’t be used again until the next dusk.</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="2">2 lb.</set>
+            <set name="type">Wondrous Item</set>
+            <set name="rarity">Rare</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Cauldron of the Vermintoll Coven</set>
+        </setters>
+        <rules>
+            <stat name="strength:save:misc" value="1" />
+			<stat name="dexterity:save:misc" value="1" />
+			<stat name="constitution:save:misc" value="1" />
+			<stat name="intelligence:save:misc" value="1" />
+			<stat name="wisdom:save:misc" value="1" />
+			<stat name="charisma:save:misc" value="1" />
+        </rules>
+    </element>
+    <element name="Cauldron of the Vermintoll Coven (7th-12th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_CAULDRON_OF_THE_VERMINTOLL_COVEN_VERY_RARE">
+        <description>
+            <p>The tarnished cauldron bubbles with a strange, dark liquid. Even in transport, the liquid stays within the rune-emblazoned rim of the cauldron.</p>
+            <p class="indent">While you hold the cauldron, you can use it as a spellcasting focus for your spells, you gain a bonus determined by the cauldron’s rarity to all saving throws, and you can use the following properties.</p>
+            <p class="indent"><b><i>Size Change.</i></b> You can perform a 1-minute ritual to change the cauldron’s size from Tiny to Medium, or from Medium to Tiny. It weighs 1 lb. when Tiny and 80 lb. when Medium. As a Medium object, its feet can move. It has a speed of 20 feet and moves when you command it during your turn (no action required).</p>
+            <p class="indent"><b><i>Cookpot.</i></b> As part of a short or long rest, you can use the Medium cauldron to prepare food for up to ten creatures. At the end of the rest, each creature that eats gains 2d6 temporary hit points.</p>
+            <p class="indent"><b><i>Vermincall.</i></b> As an action, you can spill liquid from the cauldron to cast <i>Conjure Animals</i> with it. The conjured spirits take the form of grotesque insects or rats. Once this property is used, it can’t be used again until the next dusk.</p>
+            <p class="indent"><b><i>Fortifying Gorge.</i></b> When you use the Cookpot property, one creature of your choice who eats gains a +2 bonus to AC until you finish a short or long rest. During this time, the creature’s skin is hardened and monstrous.</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="2">2 lb.</set>
+            <set name="type">Wondrous Item</set>
+            <set name="rarity">Very Rare</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Cauldron of the Vermintoll Coven</set>
+        </setters>
+        <rules>
+            <stat name="strength:save:misc" value="2" />
+			<stat name="dexterity:save:misc" value="2" />
+			<stat name="constitution:save:misc" value="2" />
+			<stat name="intelligence:save:misc" value="2" />
+			<stat name="wisdom:save:misc" value="2" />
+			<stat name="charisma:save:misc" value="2" />
+        </rules>
+    </element>
+    <element name="Cauldron of the Vermintoll Coven (13th Level+)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_CAULDRON_OF_THE_VERMINTOLL_COVEN_LEGENDARY">
+        <description>
+            <p>The tarnished cauldron bubbles with a strange, dark liquid. Even in transport, the liquid stays within the rune-emblazoned rim of the cauldron.</p>
+            <p class="indent">While you hold the cauldron, you can use it as a spellcasting focus for your spells, you gain a bonus determined by the cauldron’s rarity to all saving throws, and you can use the following properties.</p>
+            <p class="indent"><b><i>Size Change.</i></b> You can perform a 1-minute ritual to change the cauldron’s size from Tiny to Medium, or from Medium to Tiny. It weighs 1 lb. when Tiny and 80 lb. when Medium. As a Medium object, its feet can move. It has a speed of 20 feet and moves when you command it during your turn (no action required).</p>
+            <p class="indent"><b><i>Cookpot.</i></b> As part of a short or long rest, you can use the Medium cauldron to prepare food for up to ten creatures. At the end of the rest, each creature that eats gains 2d6 temporary hit points.</p>
+            <p class="indent"><b><i>Vermincall.</i></b> As an action, you can spill liquid from the cauldron to cast <i>Conjure Animals</i> with it. The conjured spirits take the form of grotesque insects or rats. Once this property is used, it can’t be used again until the next dusk.</p>
+            <p class="indent"><b><i>Fortifying Gorge.</i></b> When you use the Cookpot property, one creature of your choice who eats gains a +2 bonus to AC until you finish a short or long rest. During this time, the creature’s skin is hardened and monstrous.</p>
+            <p class="indent"><b><i>Coven Abomination.</i></b> As a bonus action, you can drink from the cauldron or administer a draught from it to a creature within 5 feet. For 1 hour, the drinker of the thick, sickly-sweet liquid becomes Large if it is currently smaller than that, its reach increases by 5 feet, and its melee attacks deal an extra 1d8 damage. When the effect ends, the creature becomes incapacitated for 1 minute from the agony of its bones shrinking slower than its flesh.</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="2">2 lb.</set>
+            <set name="type">Wondrous Item</set>
+            <set name="rarity">Legendary</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Cauldron of the Vermintoll Coven</set>
+        </setters>
+        <rules>
+            <stat name="strength:save:misc" value="3" />
+			<stat name="dexterity:save:misc" value="3" />
+			<stat name="constitution:save:misc" value="3" />
+			<stat name="intelligence:save:misc" value="3" />
+			<stat name="wisdom:save:misc" value="3" />
+			<stat name="charisma:save:misc" value="3" />
+        </rules>
+    </element>
+    
+    <element name="Crown of the Barrow King (1st-6th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_CROWN_OF_THE_BARROW_KING_RARE">
+        <description>
+            <p>This crown of twisted iron has five sharp, tall spikes that are crusted with dried blood. None who see it doubt the malice and corruption that the Barrow King imbued into it.</p>
+            <p class="indent">While you wear the crown, you gain a bonus determined by the crown’s rarity to spell attack rolls and to your spell save DC for necromancy spells and spells that deal necrotic damage, and you can use the following properties.</p>
+            <p class="indent"><b><i>You gain a +1 bonus to spell attack rolls and your spell save DC for necromancy spells and spells that deal necrotic damage.</i></b></p>
+            <p class="indent"><b><i>Demand of the Dead.</i></b> You can cast <i>Speak with Dead</i> from the crown.</p>
+            <p class="indent"><b><i>Grave Grasp.</i></b> You know the <i>Chill Touch</i> cantrip. Your spell attack bonus with it is +9.</p>
+            <p class="indent"><b><i>Necromancer's Call.</i></b> You can cast <i>Animate Dead</i> from the crown. It can be used to cast this spell three times, regaining all expended uses daily at dusk.</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="0">0 lb.</set>
+            <set name="type">Wondrous Item</set>
+            <set name="rarity">Rare</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Crown of the Barrow King</set>
+        </setters>
+    </element>
+    <element name="Crown of the Barrow King (7th-12th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_CROWN_OF_THE_BARROW_KING_VERY_RARE">
+        <description>
+            <p>This crown of twisted iron has five sharp, tall spikes that are crusted with dried blood. None who see it doubt the malice and corruption that the Barrow King imbued into it.</p>
+            <p class="indent">While you wear the crown, you gain a bonus determined by the crown’s rarity to spell attack rolls and to your spell save DC for necromancy spells and spells that deal necrotic damage, and you can use the following properties.</p>
+            <p class="indent"><b><i>You gain a +2 bonus to spell attack rolls and your spell save DC for necromancy spells and spells that deal necrotic damage.</i></b></p>
+            <p class="indent"><b><i>Demand of the Dead.</i></b> You can cast <i>Speak with Dead</i> from the crown.</p>
+            <p class="indent"><b><i>Grave Grasp.</i></b> You know the <i>Chill Touch</i> cantrip. Your spell attack bonus with it is +9.</p>
+            <p class="indent"><b><i>Necromancer's Call.</i></b> You can cast <i>Animate Dead</i> from the crown. It can be used to cast this spell three times, regaining all expended uses daily at dusk.</p>
+            <p class="indent"><b><i>Master of Undeath.</i></b> Undead that you create or summon have twice as many hit points as normal and have advantage on saving throws.</p>
+            <p class="indent"><b><i>Soul Transfer.</i></b> When you drop to 0 hit points or fail a death saving throw, you can transfer your soul into an Undead that you created and that is within 1 mile of you (no action required). Your previous body dies instantly. Your new body has none of your possessions except the crown. You use your game statistics, except the target Undead’s current hit points replace your current hit points. Once this property is used, it can’t be used again until the next dusk.</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="0">0 lb.</set>
+            <set name="type">Wondrous Item</set>
+            <set name="rarity">Very Rare</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Crown of the Barrow King</set>
+        </setters>
+    </element>
+    <element name="Crown of the Barrow King (13th Level+)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_CROWN_OF_THE_BARROW_KING_LEGENDARY">
+        <description>
+            <p>This crown of twisted iron has five sharp, tall spikes that are crusted with dried blood. None who see it doubt the malice and corruption that the Barrow King imbued into it.</p>
+            <p class="indent">While you wear the crown, you gain a bonus determined by the crown’s rarity to spell attack rolls and to your spell save DC for necromancy spells and spells that deal necrotic damage, and you can use the following properties.</p>
+            <p class="indent"><b><i>You gain a +3 bonus to spell attack rolls and your spell save DC for necromancy spells and spells that deal necrotic damage.</i></b></p>
+            <p class="indent"><b><i>Demand of the Dead.</i></b> You can cast <i>Speak with Dead</i> from the crown.</p>
+            <p class="indent"><b><i>Grave Grasp.</i></b> You know the <i>Chill Touch</i> cantrip. Your spell attack bonus with it is +9.</p>
+            <p class="indent"><b><i>Necromancer's Call.</i></b> You can cast <i>Animate Dead</i> from the crown. It can be used to cast this spell three times, regaining all expended uses daily at dusk.</p>
+            <p class="indent"><b><i>Master of Undeath.</i></b> Undead that you create or summon have twice as many hit points as normal and have advantage on saving throws.</p>
+            <p class="indent"><b><i>Soul Transfer.</i></b> When you drop to 0 hit points or fail a death saving throw, you can transfer your soul into an Undead that you created and that is within 1 mile of you (no action required). Your previous body dies instantly. Your new body has none of your possessions except the crown. You use your game statistics, except the target Undead’s current hit points replace your current hit points. Once this property is used, it can’t be used again until the next dusk.</p>
+            <p class="indent"><b><i>Compel Undead.</i></b> As an action, you can choose an Undead within 30 feet of you. It must succeed on a DC 19 Wisdom saving throw or be charmed for 1 minute. It obeys your commands while charmed in this way, and the charmed condition ends early when the creature has half its hit points or fewer.</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="0">0 lb.</set>
+            <set name="type">Wondrous Item</set>
+            <set name="rarity">Legendary</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Crown of the Barrow King</set>
+        </setters>
+    </element>
+
+    <element name="Cutlass of Briggsy Kratch (1st-6th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_CUTLASS_OF_BRIGGSY_KRATCH_RARE">
+        <description>
+            <p>A fearsome weapon imbued with jinxcraft magic, this cutlass was once wielded by the notorious pirate captain, Briggsy “The Kutlass” Kratch. Its tarnished blade glimmers with a faint, otherworldly light. A skull and crossbones adorn the leather-wrapped hilt, and arcane symbols etched into the blade pulse with hidden power.</p>
+            <p class="indent">You gain a bonus to attack rolls and damage rolls made with the cutlass determined by its rarity. While holding the cutlass, you can use the following properties.</p>
+            <p class="indent"><b><i>Raise the Stakes.</i></b> As a bonus action, choose a creature within 5 feet of you and mark it until the start of your next turn. Count the number of times you hit the target and the number of times it hits you while the mark lasts. If you hit the target more times, it takes 2d10 psychic damage. If it hits you more times, you take 2d10 psychic damage. If your hits are tied, you both take 2d10 psychic damage. Once this property is used, it can’t be used again until the next dusk.</p>
+            <p class="indent"><b><i>Sea Legs.</i></b> When you take the Disengage action, difficult terrain doesn’t cost you extra movement until the end of that turn.</p>
+        </description>
+        <setters>
+            <set name="category">Magic Weapons</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="3">3 lb.</set>
+            <set name="type" addition="scimitar">Weapon</set>
+            <set name="rarity">Rare</set>
+            <set name="enhancement">1</set>
+            <set name="weapon">Scimitar</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Cutlass of Briggsy Kratch</set>
+        </setters>
+    </element>
+    <element name="Cutlass of Briggsy Kratch (7th-12th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_CUTLASS_OF_BRIGGSY_KRATCH_VERY_RARE">
+        <description>
+            <p>A fearsome weapon imbued with jinxcraft magic, this cutlass was once wielded by the notorious pirate captain, Briggsy “The Kutlass” Kratch. Its tarnished blade glimmers with a faint, otherworldly light. A skull and crossbones adorn the leather-wrapped hilt, and arcane symbols etched into the blade pulse with hidden power.</p>
+            <p class="indent">You gain a bonus to attack rolls and damage rolls made with the cutlass determined by its rarity. While holding the cutlass, you can use the following properties.</p>
+            <p class="indent"><b><i>Raise the Stakes.</i></b> As a bonus action, choose a creature within 5 feet of you and mark it until the start of your next turn. Count the number of times you hit the target and the number of times it hits you while the mark lasts. If you hit the target more times, it takes 2d10 psychic damage. If it hits you more times, you take 2d10 psychic damage. If your hits are tied, you both take 2d10 psychic damage. Once this property is used, it can’t be used again until the next dusk.</p>
+            <p class="indent"><b><i>Sea Legs.</i></b> When you take the Disengage action, difficult terrain doesn’t cost you extra movement until the end of that turn.</p>
+            <p class="indent"><b><i>Double Down.</i></b>When you take the Attack action on your turn, you can make one additional attack against a target marked by the Raise the Stakes property.</p>
+            <p class="indent"><b><i>Jinxcraft Panache.</i></b> When a creature hits you with an attack roll, you can use your reaction to increase your AC against that attack by twice the cutlass’s bonus to attack and damage rolls if the creature already dealt damage to you on this turn.</p>
+        </description>
+        <setters>
+            <set name="category">Magic Weapons</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="3">3 lb.</set>
+            <set name="type" addition="scimitar">Weapon</set>
+            <set name="rarity">Very Rare</set>
+            <set name="enhancement">2</set>
+            <set name="weapon">Scimitar</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Cutlass of Briggsy Kratch</set>
+        </setters>
+    </element>
+    <element name="Cutlass of Briggsy Kratch (13th Level+)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_CUTLASS_OF_BRIGGSY_KRATCH_LEGENDARY">
+        <description>
+            <p>A fearsome weapon imbued with jinxcraft magic, this cutlass was once wielded by the notorious pirate captain, Briggsy “The Kutlass” Kratch. Its tarnished blade glimmers with a faint, otherworldly light. A skull and crossbones adorn the leather-wrapped hilt, and arcane symbols etched into the blade pulse with hidden power.</p>
+            <p class="indent">You gain a bonus to attack rolls and damage rolls made with the cutlass determined by its rarity. While holding the cutlass, you can use the following properties.</p>
+            <p class="indent"><b><i>Raise the Stakes.</i></b> As a bonus action, choose a creature within 5 feet of you and mark it until the start of your next turn. Count the number of times you hit the target and the number of times it hits you while the mark lasts. If you hit the target more times, it takes 2d10 psychic damage. If it hits you more times, you take 2d10 psychic damage. If your hits are tied, you both take 2d10 psychic damage. Once this property is used, it can’t be used again until the next dusk.</p>
+            <p class="indent"><b><i>Sea Legs.</i></b> When you take the Disengage action, difficult terrain doesn’t cost you extra movement until the end of that turn.</p>
+            <p class="indent"><b><i>Double Down.</i></b>When you take the Attack action on your turn, you can make one additional attack against a target marked by the Raise the Stakes property.</p>
+            <p class="indent"><b><i>Jinxcraft Panache.</i></b> When a creature hits you with an attack roll, you can use your reaction to increase your AC against that attack by twice the cutlass’s bonus to attack and damage rolls if the creature already dealt damage to you on this turn.</p>
+            <p class="indent"><b><i>Hex Ward</i></b> You can’t be targeted with divination spells or perceived through magical scrying sensors, and a creature that curses you takes psychic damage equal to your level.</p>
+        </description>
+        <setters>
+            <set name="category">Magic Weapons</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="3">3 lb.</set>
+            <set name="type" addition="scimitar">Weapon</set>
+            <set name="rarity">Legendary</set>
+            <set name="enhancement">3</set>
+            <set name="weapon">Scimitar</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Cutlass of Briggsy Kratch</set>
+        </setters>
+    </element>
+
+    <element name="Eye of the White Worm (1st-6th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_EYE_OF_THE_WHITE_WORM_RARE">
+        <description>
+            <p>This fist-sized eyeball is cold and clammy to the touch. It is milky-white with purple veins, and its pupil constantly searches for something.</p>
+            <p class="indent">While holding the eye, you can use it as a spellcasting focus for your spells, you gain a bonus to spell attack rolls and your spell save DC determined by the eye’s rarity, and you can use the following properties.</p>
+            <p class="indent"><b><i>Thought Scour.</i></b> You can cast <i>Detect Thoughts</i> (save DC = 16 + the eye’s bonus) from the eye. When you probe deeper into a creature’s mind, it takes 3d8 psychic damage unless it is a willing target. Once this property is used, it can’t be used again until the next dusk.</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="0">0 lb.</set>
+            <set name="type">Wondrous Item</set>
+            <set name="rarity">Rare</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Eye of the White Worm</set>
+        </setters>
+        <rules>
+            <stat name="spellcasting:attack" value="1" />
+            <stat name="spellcasting:dc" value="1" />
+        </rules>
+    </element>
+    <element name="Eye of the White Worm (7th-12th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_EYE_OF_THE_WHITE_WORM_VERY_RARE">
+        <description>
+            <p>This fist-sized eyeball is cold and clammy to the touch. It is milky-white with purple veins, and its pupil constantly searches for something.</p>
+            <p class="indent">While holding the eye, you can use it as a spellcasting focus for your spells, you gain a bonus to spell attack rolls and your spell save DC determined by the eye’s rarity, and you can use the following properties.</p>
+            <p class="indent"><b><i>Thought Scour.</i></b> You can cast <i>Detect Thoughts</i> (save DC = 16 + the eye’s bonus) from the eye. When you probe deeper into a creature’s mind, it takes 3d8 psychic damage unless it is a willing target. Once this property is used, it can’t be used again until the next dusk.</p>
+            <p class="indent"><b><i>Mnemonic Siphon.</i></b> You can cast <i>Modify Memory</i> (save DC = 16 + the eye’s bonus) from the eye. When you do, you gain a version of the affected memory as if you experienced it yourself, though you still know the memory isn’t yours. Once this property is used, it can’t be used again until the next dusk.</p>
+            <p class="indent"><b><i>Violation of the Real.</i></b> When you cast a conjuration spell using a spell slot that deals damage, or that summons a creature that can deal damage, the spell or creature deals an extra 1d10 psychic damage to one target the first time it deals damage during a turn.</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="0">0 lb.</set>
+            <set name="type">Wondrous Item</set>
+            <set name="rarity">Very Rare</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Eye of the White Worm</set>
+        </setters>
+        <rules>
+            <stat name="spellcasting:attack" value="2" />
+            <stat name="spellcasting:dc" value="2" />
+        </rules>
+    </element>
+    <element name="Eye of the White Worm (13th Level+)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_EYE_OF_THE_WHITE_WORM_LEGENDARY">
+        <description>
+            <p>This fist-sized eyeball is cold and clammy to the touch. It is milky-white with purple veins, and its pupil constantly searches for something.</p>
+            <p class="indent">While holding the eye, you can use it as a spellcasting focus for your spells, you gain a bonus to spell attack rolls and your spell save DC determined by the eye’s rarity, and you can use the following properties.</p>
+            <p class="indent"><b><i>Thought Scour.</i></b> You can cast <i>Detect Thoughts</i> (save DC = 16 + the eye’s bonus) from the eye. When you probe deeper into a creature’s mind, it takes 3d8 psychic damage unless it is a willing target. Once this property is used, it can’t be used again until the next dusk.</p>
+            <p class="indent"><b><i>Mnemonic Siphon.</i></b> You can cast <i>Modify Memory</i> (save DC = 16 + the eye’s bonus) from the eye. When you do, you gain a version of the affected memory as if you experienced it yourself, though you still know the memory isn’t yours. Once this property is used, it can’t be used again until the next dusk.</p>
+            <p class="indent"><b><i>Violation of the Real.</i></b> When you cast a conjuration spell using a spell slot that deals damage, or that summons a creature that can deal damage, the spell or creature deals an extra 1d10 psychic damage to one target the first time it deals damage during a turn.</p>
+            <p class="indent"><b><i>Enduring Violation.</i></b> When you cast a conjuration spell with a duration of 1 hour or more, you can extend the duration to 24 hours, and the spell no longer requires concentration. Once this property is used, it can’t be used again until the next dusk.</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="0">0 lb.</set>
+            <set name="type">Wondrous Item</set>
+            <set name="rarity">Legendary</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Eye of the White Worm</set>
+        </setters>
+        <rules>
+            <stat name="spellcasting:attack" value="3" />
+            <stat name="spellcasting:dc" value="3" />
+        </rules>
+    </element>
+
+    <element name="Hide of the Brimstone Behemoth (1st-6th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_HIDE_OF_THE_BRIMSTONE_BEHEMOTH_RARE">
+        <description>
+            <p>This cloak was made from the hide of a reptilian magma Fiend, incomparable in its destructive power. Flame now shies away from it, for one who has mastered such a titanic creature can master its element.</p>
+            <p class="indent">While wearing this cloak, you gain a bonus to Armor Class and Constitution saving throws determined by the cloak’s rarity, and you can use the following properties.</p>
+            <p class="indent"><b><i>Deep-Dweller.</i></b> You have resistance to fire damage and a burrowing speed equal to your walking speed. Once during your turn when you emerge from burrowing, each creature within 10 feet of you must make a Dexterity saving throw (DC = 16 + the hide’s bonus), taking 2d8 fire damage on a failed save or half as much damage on a successful one.</p>
+            <p class="indent"><b><i>Infernal Roar.</i></b> You can cast <i>Fear</i> (save DC = 16 + the hide’s bonus) from the cloak. This property can be used three times, regaining all expended uses daily at dusk.</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="0">0 lb.</set>
+            <set name="type">Wondrous Item</set>
+            <set name="rarity">Rare</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Hide of the Brimstone Behemoth</set>
+        </setters>
+        <rules>
+            <stat name="ac" value="1" />
+            <stat name="constitution:save:misc" value="1" />
+            <grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_FIRE" />
+            <stat name="innate speed:burrow" value="innate speed" bonus="base" />
+        </rules>
+    </element>
+    <element name="Hide of the Brimstone Behemoth (7th-12th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_HIDE_OF_THE_BRIMSTONE_BEHEMOTH_VERY_RARE">
+        <description>
+            <p>This cloak was made from the hide of a reptilian magma Fiend, incomparable in its destructive power. Flame now shies away from it, for one who has mastered such a titanic creature can master its element.</p>
+            <p class="indent">While wearing this cloak, you gain a bonus to Armor Class and Constitution saving throws determined by the cloak’s rarity, and you can use the following properties.</p>
+            <p class="indent"><b><i>Deep-Dweller.</i></b> You have resistance to fire damage and a burrowing speed equal to your walking speed. Once during your turn when you emerge from burrowing, each creature within 10 feet of you must make a Dexterity saving throw (DC = 16 + the hide’s bonus), taking 2d8 fire damage on a failed save or half as much damage on a successful one.</p>
+            <p class="indent"><b><i>Infernal Roar.</i></b> You can cast <i>Fear</i> (save DC = 16 + the hide’s bonus) from the cloak. This property can be used three times, regaining all expended uses daily at dusk.</p>
+            <p class="indent"><b><i>Hellfire Maw.</i></b> As an action, you can exhale hellfire in a 30-foot cone. Each creature in the area must make a Dexterity saving throw (DC = 16 + the hide’s bonus). On a failed save, a creature takes 4d6 fire damage and 4d6 necrotic damage, and it can’t regain hit points for 1 minute. On a successful save, it takes half damage only. Once this property is used, it can’t be used again until the next dusk.</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="0">0 lb.</set>
+            <set name="type">Wondrous Item</set>
+            <set name="rarity">Very Rare</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Hide of the Brimstone Behemoth</set>
+        </setters>
+        <rules>
+            <stat name="ac" value="2" />
+            <stat name="constitution:save:misc" value="2" />
+            <grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_FIRE" />
+            <stat name="innate speed:burrow" value="innate speed" bonus="base" />
+        </rules>
+    </element>
+    <element name="Hide of the Brimstone Behemoth (13th Level+)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_HIDE_OF_THE_BRIMSTONE_BEHEMOTH_LEGENDARY">
+        <description>
+            <p>This cloak was made from the hide of a reptilian magma Fiend, incomparable in its destructive power. Flame now shies away from it, for one who has mastered such a titanic creature can master its element.</p>
+            <p class="indent">While wearing this cloak, you gain a bonus to Armor Class and Constitution saving throws determined by the cloak’s rarity, and you can use the following properties.</p>
+            <p class="indent"><b><i>Deep-Dweller.</i></b> You have resistance to fire damage and a burrowing speed equal to your walking speed. Once during your turn when you emerge from burrowing, each creature within 10 feet of you must make a Dexterity saving throw (DC = 16 + the hide’s bonus), taking 2d8 fire damage on a failed save or half as much damage on a successful one.</p>
+            <p class="indent"><b><i>Infernal Roar.</i></b> You can cast <i>Fear</i> (save DC = 16 + the hide’s bonus) from the cloak. This property can be used three times, regaining all expended uses daily at dusk.</p>
+            <p class="indent"><b><i>Hellfire Maw.</i></b> As an action, you can exhale hellfire in a 30-foot cone. Each creature in the area must make a Dexterity saving throw (DC = 16 + the hide’s bonus). On a failed save, a creature takes 4d6 fire damage and 4d6 necrotic damage, and it can’t regain hit points for 1 minute. On a successful save, it takes half damage only. Once this property is used, it can’t be used again until the next dusk.</p>
+            <p class="indent"><b><i>Pernicious Fire Immunity.</i></b> Fire actively avoids you. You have immunity to fire damage. When you are the target of an attack that deals fire damage, the attack randomly targets another creature within the attack’s range, which can include the attacker. When you make a saving throw against an effect that deals fire damage, you must choose one other creature that is also making the saving throw against that effect. It has disadvantage on the save.</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="0">0 lb.</set>
+            <set name="type">Wondrous Item</set>
+            <set name="rarity">Legendary</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Hide of the Brimstone Behemoth</set>
+        </setters>
+        <rules>
+            <stat name="ac" value="3" />
+            <stat name="constitution:save:misc" value="3" />
+            <grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_IMMUNITY_FIRE" />
+            <stat name="innate speed:burrow" value="innate speed" bonus="base" />
+        </rules>
+    </element>
+
+    <element name="Hook of the Tall Man (1st-6th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_HOOK_OF_THE_TALL_MAN_RARE">
+        <description>
+            <p>This hook is made from a single huge claw attached to a large bleached fingerbone mounted on a haft of ash. The tip of the claw gives off an eerie glow. The finger and claw were cut from the hand of the Tall Man</p>
+            <p class="indent">You gain a bonus to attack rolls and damage rolls made with this magic weapon determined by the hook’s rarity. While holding the hook, you can use the following properties.</p>
+            <p class="indent"><b><i>Snare.</i></b> When you hit a creature with the hook, you can force it to make a Constitution saving throw with a DC of 8 plus your proficiency bonus and the ability modifier used to make the attack roll. On a failed save, the creature is knocked prone.</p>
+            <p class="indent"><b><i>Fey Haunt's Stride.</i></b> You can cast <i>Misty Step</i> from the hook, and when you do so, you have advantage on your next Dexterity (Stealth) check made before the end of your next turn. This property can be used twice, regaining all expended uses when you roll initiative.</p>
+        </description>
+        <setters>
+            <set name="category">Magic Weapons</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="2">2 lb.</set>
+            <set name="type" addition="war pick">Weapon</set>
+            <set name="rarity">Rare</set>
+            <set name="enhancement">1</set>
+            <set name="weapon">War Pick</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Hook of the Tall Man</set>
+        </setters>
+    </element>
+    <element name="Hook of the Tall Man (7th-12th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_HOOK_OF_THE_TALL_MAN_VERY_RARE">
+        <description>
+            <p>This hook is made from a single huge claw attached to a large bleached fingerbone mounted on a haft of ash. The tip of the claw gives off an eerie glow. The finger and claw were cut from the hand of the Tall Man</p>
+            <p class="indent">You gain a bonus to attack rolls and damage rolls made with this magic weapon determined by the hook’s rarity. While holding the hook, you can use the following properties.</p>
+            <p class="indent"><b><i>Snare.</i></b> When you hit a creature with the hook, you can force it to make a Constitution saving throw with a DC of 8 plus your proficiency bonus and the ability modifier used to make the attack roll. On a failed save, the creature is knocked prone.</p>
+            <p class="indent"><b><i>Fey Haunt's Stride.</i></b> You can cast <i>Misty Step</i> from the hook, and when you do so, you have advantage on your next Dexterity (Stealth) check made before the end of your next turn. This property can be used twice, regaining all expended uses when you roll initiative.</p>
+            <p class="indent"><b><i>Strike from Shadows.</i></b> If you are hidden or invisible when you start your turn, you have advantage on the first attack you make on your turn against a creature that couldn’t see you, even if you are visible or noticed before you make the attack. If that attack hits, it deals an extra 2d6 piercing damage.</p>
+        </description>
+        <setters>
+            <set name="category">Magic Weapons</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="2">2 lb.</set>
+            <set name="type" addition="war pick">Weapon</set>
+            <set name="rarity">Very Rare</set>
+            <set name="enhancement">2</set>
+            <set name="weapon">War Pick</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Hook of the Tall Man</set>
+        </setters>
+    </element>
+    <element name="Hook of the Tall Man (13th Level+)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_HOOK_OF_THE_TALL_MAN_LEGENDARY">
+        <description>
+            <p>This hook is made from a single huge claw attached to a large bleached fingerbone mounted on a haft of ash. The tip of the claw gives off an eerie glow. The finger and claw were cut from the hand of the Tall Man</p>
+            <p class="indent">You gain a bonus to attack rolls and damage rolls made with this magic weapon determined by the hook’s rarity. While holding the hook, you can use the following properties.</p>
+            <p class="indent"><b><i>Snare.</i></b> When you hit a creature with the hook, you can force it to make a Constitution saving throw with a DC of 8 plus your proficiency bonus and the ability modifier used to make the attack roll. On a failed save, the creature is knocked prone.</p>
+            <p class="indent"><b><i>Fey Haunt's Stride.</i></b> You can cast <i>Misty Step</i> from the hook, and when you do so, you have advantage on your next Dexterity (Stealth) check made before the end of your next turn. This property can be used twice, regaining all expended uses when you roll initiative.</p>
+            <p class="indent"><b><i>Strike from Shadows.</i></b> If you are hidden or invisible when you start your turn, you have advantage on the first attack you make on your turn against a creature that couldn’t see you, even if you are visible or noticed before you make the attack. If that attack hits, it deals an extra 2d6 piercing damage.</p>
+            <p class="indent"><b><i>Hunter's Hook.</i></b> When you hit with an opportunity attack made with the hook, the target takes an extra 2d6 psychic damage, and its speed is 0 until the end of the turn.</p>
+            <p class="indent"><b><i>Terrifying Stride.</i></b> Immediately after you use the Fey Haunt’s Stride property, you can choose a creature within 20 feet of you. It must succeed on a DC 19 Wisdom saving throw or be frightened until the end of your next turn. While frightened in this way, the creature can’t take the Disengage action.</p>
+        </description>
+        <setters>
+            <set name="category">Magic Weapons</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="2">2 lb.</set>
+            <set name="type" addition="war pick">Weapon</set>
+            <set name="rarity">Legendary</set>
+            <set name="enhancement">3</set>
+            <set name="weapon">War Pick</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Hook of the Tall Man</set>
+        </setters>
+    </element>
+
+    <element name="Idol of the Beast of Blight (1st-6th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_IDOL_OF_THE_BEAST_OF_BLIGHT_RARE">
+        <description>
+            <p>Made of bleached and mutated bone, this idol in the shape of a stag contains the sinister knowledge of the Beast of Blight. It pulses with the power of rot and decay.</p>
+            <p class="indent">While holding the idol, you can use it as a spellcasting focus for your spells, you gain a bonus to spell attack rolls and your spell save DC determined by the idol’s rarity, and you can use the following properties.</p>
+            <p class="indent"><b><i>Rotting Touch.</i></b> You can use your Strength, Dexterity, or Wisdom modifier for the attack and damage rolls of your unarmed strikes, and on a hit, your strike deals an extra 1d6 necrotic damage (rare), 1d8 necrotic damage (very rare), or 1d10 necrotic damage (legendary).</p>
+            <p class="indent"><b><i>Touch of Oblivion.</i></b> As a bonus action, you can touch a creature that has been dead for less than 1 hour. It rots away to bleached bone and can’t be used for this property again. The next time you hit with an unarmed strike using the Rotting Touch property before the end of your next turn, it is a critical hit instead.</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="0">0 lb.</set>
+            <set name="type">Wondrous Item</set>
+            <set name="rarity">Rare</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Idol of the Beast of Blight</set>
+        </setters>
+        <rules>
+            <stat name="spellcasting:attack" value="1" />
+            <stat name="spellcasting:dc" value="1" />
+        </rules>
+    </element>
+    <element name="Idol of the Beast of Blight (7th-12th Level)" type="Magic Item" source="The Crooked Moon 2014" id="ID_LOA_TCM14_MAGIC_ITEM_IDOL_OF_THE_BEAST_OF_BLIGHT_VERY_RARE">
+        <description>
+            <p>Made of bleached and mutated bone, this idol in the shape of a stag contains the sinister knowledge of the Beast of Blight. It pulses with the power of rot and decay.</p>
+            <p class="indent">While holding the idol, you can use it as a spellcasting focus for your spells, you gain a bonus to spell attack rolls and your spell save DC determined by the idol’s rarity, and you can use the following properties.</p>
+            <p class="indent"><b><i>Rotting Touch.</i></b> You can use your Strength, Dexterity, or Wisdom modifier for the attack and damage rolls of your unarmed strikes, and on a hit, your strike deals an extra 1d6 necrotic damage (rare), 1d8 necrotic damage (very rare), or 1d10 necrotic damage (legendary).</p>
+            <p class="indent"><b><i>Touch of Oblivion.</i></b> As a bonus action, you can touch a creature that has been dead for less than 1 hour. It rots away to bleached bone and can’t be used for this property again. The next time you hit with an unarmed strike using the Rotting Touch property before the end of your next turn, it is a critical hit instead.</p>
+            <p class="indent"><b><i>Hallucinatory Spores.</i></b> When you cast a spell using a spell slot or from the idol, you can choose one creature that you can see within 10 feet of you. It must succeed on a Wisdom saving throw (DC = 16 + the idol’s bonus) or take 2d6 psychic damage and have disadvantage on attack rolls until the start of your next turn.</p>
+            <p class="indent"><b><i>Rot in the Flesh.</i></b> You can cast Barkskin from the idol targeting only yourself. For the duration, a creature that hits you with a melee attack roll takes 1d8 necrotic damage. Once the spell is cast from the idol, it can’t be cast from it again until the next dusk.</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="0">0 lb.</set>
+            <set name="type">Wondrous Item</set>
+            <set name="rarity">Very Rare</set>
+            <set name="attunement">true</set>
+            <set name="name-format">Idol of the Beast of Blight</set>
+        </setters>
+        <rules>
+            <stat name="spellcasting:attack" value="2" />
+            <stat name="spellcasting:dc" value="2" />
+        </rules>
+    </element>
+</elements>
