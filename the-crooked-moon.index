@@ -2,12 +2,12 @@
 <index>
 	<info>
 		<name>The Crooked Moon 2014</name>
-		<update version="0.0.3">
+		<update version="0.0.4">
 			<file name="the-crooked-moon-2014.index" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon.index" />
 		</update>
 	</info>
 	<files>
-		<file name="background-amnesiac.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/backgrounds-amnesiac.xml" />
+		<file name="background-amnesiac.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/background-amnesiac.xml" />
 		<file name="background-crimson-aspirant.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/background-crimson-aspirant.xml" />
 		<file name="background-crossroads-gambler.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/background-crossroads-gambler.xml" />
 		<file name="background-cultist.xml" url="https://raw.githubusercontent.com/NotTheTom/the-crooked-moon-2014/main/the-crooked-moon-2014/background-cultist.xml" />
